@@ -1,0 +1,5 @@
+file = open("student.txt", "a")
+file.write("\nPython File Handling")
+file.write("\nWelcome M.Muzammil Khan")
+file.close()
+print("Data Added!")
